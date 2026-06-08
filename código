@@ -1,0 +1,5 @@
+suka = input("suka?")
+if suka == "da":
+    print("suka suka")
+else:    
+    print("fock you")
